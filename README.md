@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasrayatwal&label=Profile%20views&color=0e75b6&style=flat" alt="jasrayatwal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasrayatwal" alt="jasrayatwal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasrayatwal&theme=gruvbox" alt="jasrayatwal" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, Python, Node, Express**
 
